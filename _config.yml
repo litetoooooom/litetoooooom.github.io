@@ -1,0 +1,16 @@
+name: "Tom's blog"
+
+description: "NLP/C++/Python"
+
+footer-links:
+  github: chinazoujy
+
+navigation:
+  - name: 首页
+    url: /
+  - name: 关于
+    url: /about
+  - name: 归档
+    url: /archive
+  - name: 标签
+    url: /tags
